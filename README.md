@@ -12,6 +12,7 @@ To get started with Seliware Executor, follow these simple steps:
 
 
 
+
 ![Seliware Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
